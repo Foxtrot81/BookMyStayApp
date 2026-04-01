@@ -4,7 +4,7 @@
  * Hotel Booking Management System - Demonstration of
  * abstraction, inheritance, polymorphism and static availability.
  *
- * @author Varad
+ 
  * @version 1.0
  */
 
